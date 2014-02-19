@@ -1,0 +1,596 @@
+Rnº,Tipo,Localización,Estado: (- / Espera / Reciclando / Listo / Desechado),Número catálogo si está listo,Procedencia
+0,Pc,DONADO,Listo,180,Facultad de Odontología
+1,Servidor,Almacén Oficina,Desechado,,Recogidas
+2,Pc,DONADO,Listo,186,Barcelona
+3,Pc,Almacén Oficina,Desechado,,Recogidas
+4,Pc,Almacén Oficina,Desechado,,Recogidas
+5,Pc,Almacén Oficina,Desechado,,Recogidas
+6,Pc,DONADO,Listo,178,Recogidas
+7,Pc,Almacén Oficina,Desechado,,Recogidas
+8,Pc,DONADO,Listo,181,Recogidas
+9,Portátil,DONADO,Listo,185,Barcelona
+11,Pc,DONADO,Listo,179,Recogidas
+12,Pc,DONADO,Listo,182,Facultad de Odontología
+13,Pc,DONADO,Listo,176,Facultad de Odontología
+14,Impresora,"Oficina, en uso",Listo,56,Facultad de Odontología
+15,Impresora,Almacén oficina,-,,CENTRO DE ACTIVIDADES DEPORTIVAS
+16,Impresora,Almacén oficina,Listo,58,CENTRO DE ACTIVIDADES DEPORTIVAS
+17,Escaner,Almacén Oficina,Desechado,,CENTRO DE ACTIVIDADES DEPORTIVAS
+18,Pc,Almacén Oficina,Listo,190,Palacio de la Madraza
+19,Pc,DONADO,Listo,183,GABINETE DE RECURSOS HUMANOS Y ORGANIZACIÓN
+20,Pc,DONADO,Listo,197,GABINETE DE RECURSOS HUMANOS Y ORGANIZACIÓN
+21,Pc,DONADO,Listo,177,GABINETE DE RECURSOS HUMANOS Y ORGANIZACIÓN
+23,Pc,DONADO,Desechado,187,San Jerónimo
+24,Impresora,Almacén Oficina,Desechado,,Facultad de Filosofía
+25,Portátil,Ofina,Espera,,Facultad de Filosofía
+26,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+27,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+28,Pc,Almacén oficina,-,,Facultas de Filosofía y Letras
+29,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+30,Pc,Almacén Oficina,Listo,192,Facultad de Filosofía
+31,Impresora,DONADO,Listo,59,Facultad de Filosofía
+32,Portátil,DONADO,Listo,231,Facultad de Filosofía
+33,Escaner,Almacén oficina,-,,Facultas de Filosofía y Letras
+34,Escaner,Almacén oficina,-,,Facultas de Filosofía y Letras
+35,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+36,Impresora,Almacén oficina,Desechado,55,Facultad de Filosofía
+37,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+38,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+39,Impresora,DONADO,Listo,60,Facultad de Filosofía
+40,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+41,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+42,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+43,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+44,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+45,Pc,DONADO,Listo,194,Facultad de Filosofía
+46,Impresora,Almacén Oficina,Desechado,,Facultad de Filosofía
+47,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+48,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+49,Pc,Almacén Oficina,Desechado,,Facultad de Filosofía
+50,Impresora,Almacén Oficina,Desechado,,San Jerónimo
+51,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+52,Impresora,DONADO,Listo,61,
+52,Impresora,Oficina,-,,Facultas de Filosofía y Letras
+53,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+54,Escaner,Almacén Oficina,Desechado,,Colegio Mayor Isabel la católica
+55,Impresora,Almacén oficina,-,,Colegio Mayor Isabel la católica
+56,Escaner,Almacén oficina,-,,Fuera UGR
+57,Impresora,Almacén Oficina,Desechado,,Fuera UGR
+58,Pc,Almacén Oficina,Desechado,,Fuera UGR - Mardigan
+59,Impresora,Almacén Oficina,Listo,50,Fuera UGR - Mardigan
+60,Impresora,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+61,Impresora,Almacén oficina,Listo,51,ETS Ingenierías Informáticas y de Telecomunicación
+62,Impresora,Almacén oficina,-,,ETS Ingenierías Informáticas y de Telecomunicación
+63,Escaner,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+64,Impresora,Almacén Oficina,Desechado,52,San Jerónimo
+65,Pc,DONADO,Listo,193,San Jerónimo
+65,Pc,DONADO,Listo,193,San Jerónimo
+66,Impresora,Almacén oficina,Listo,62,San Jerónimo
+67,Pc,DONADO,Listo,188,San Jerónimo
+68,Impresora,Almacén Oficina,Desechado,,San Jerónimo
+68,Impresora,Almacén Oficina,Desechado,,San Jerónimo
+69,Impresora,Almacén Oficina,Desechado,,San Jerónimo
+69,Impresora,Almacén Oficina,Desechado,,San Jerónimo
+70,Impresora,Almacén Oficina,Listo,53,San Jerónimo
+70,Impresora,DONADO,Listo,53,San Jerónimo
+71,Pc,Almacén Oficina,Desechado,,San Jerónimo
+72,Proyector,DONADO,Listo,229,San Jerónimo
+79,Pc,DONADO,Listo,196,ETS Ingenierías Informáticas y de Telecomunicación
+80,Impresora,Almacén Oficina,Desechado,,Caminos
+81,Impresora,Almacén Oficina,Desechado,,Caminos
+82,Impresora,Almacén oficina,Desechado,54,Caminos
+83,Escaner,Almacén Oficina,Desechado,,Caminos
+84,Impresora,Almacén Oficina,Desechado,,¿?
+85,Impresora,Almacén oficina,-,,Facultad Empresariales
+86,Impresora,Almacén oficina,-,,Facultad Empresariales
+87,Pc,Almacén Oficina,Desechado,,Instituto de Geofísica
+88,Pc,Almacén Oficina,Desechado,,Instituto de Geofísica
+89,Pc,Almacén oficina,-,,Instituto de Geofísica
+90,PC,DONADO,Listo,200,ETSIE
+91,Impresora,Almacén oficina,-,,ETSIE
+92,Portátil,Oficina,Espera,,
+93,Pc,DONADO,Listo,201,Palacio de la Madraza
+94,Portátil,DONADO,Listo,233,
+95,Pc,DONADO,Listo,227,ETS Ingenierías Informáticas y de Telecomunicación
+96,Pc,DONADO,Listo,225,ETS Ingenierías Informáticas y de Telecomunicación
+97,Pc,DONADO,Listo,207,ETS Ingenierías Informáticas y de Telecomunicación
+98,Pc,DONADO,Listo,228,ETS Ingenierías Informáticas y de Telecomunicación
+99,Pc,DONADO,Listo,203,ETS Ingenierías Informáticas y de Telecomunicación
+100,Pc,DONADO,Listo,208,ETS Ingenierías Informáticas y de Telecomunicación
+101,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+102,Pc,DONADO,Listo,226,ETS Ingenierías Informáticas y de Telecomunicación
+103,Pc,PRESTADO,Listo,245,ETS Ingenierías Informáticas y de Telecomunicación
+104,Pc,DONADO,Listo,213,ETS Ingenierías Informáticas y de Telecomunicación
+105,Pc,DONADO,Listo,224,ETS Ingenierías Informáticas y de Telecomunicación
+106,Pc,DONADO,Listo,219,ETS Ingenierías Informáticas y de Telecomunicación
+107,Pc,DONADO,Listo,205,ETS Ingenierías Informáticas y de Telecomunicación
+108,Pc,DONADO,Listo,217,ETS Ingenierías Informáticas y de Telecomunicación
+109,Pc,DONADO,Listo,221,ETS Ingenierías Informáticas y de Telecomunicación
+110,Pc,DONADO,Listo,210,ETS Ingenierías Informáticas y de Telecomunicación
+111,Pc,DONADO,Listo,215,ETS Ingenierías Informáticas y de Telecomunicación
+112,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+113,Pc,Oficina,Espera,,ETS Ingenierías Informáticas y de Telecomunicación
+114,Pc,MISSING,Listo,222,ETS Ingenierías Informáticas y de Telecomunicación
+115,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+116,Pc,DONADO,Listo,214,ETS Ingenierías Informáticas y de Telecomunicación
+117,Pc,DONADO,Listo,211,ETS Ingenierías Informáticas y de Telecomunicación
+118,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+119,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+120,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+121,Pc,DONADO,Listo,223,ETS Ingenierías Informáticas y de Telecomunicación
+122,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+123,Pc,Oficina,Listo,,ETS Ingenierías Informáticas y de Telecomunicación
+124,Pc,DONADO,Listo,216,ETS Ingenierías Informáticas y de Telecomunicación
+125,Pc,Almacén oficina,-,,ETS Ingenierías Informáticas y de Telecomunicación
+126,Pc,DONADO,Listo,209,ETS Ingenierías Informáticas y de Telecomunicación
+127,Pc,PRESTADO,Listo,248,ETS Ingenierías Informáticas y de Telecomunicación
+128,Pc,DONADO,Listo,220,PTS
+129,Pc,PRESTADO,Listo,247,ETS Ingenierías Informáticas y de Telecomunicación
+130,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+131,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+132,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+133,Portátil,Oficina,Espera,,CITIC
+134,Pc,DONADO,Listo,202,Fuera de la ugr?? Sera creo que lo recogiste tú
+135,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL
+136,Pc,PRESTADO,Listo,236,HOSPITAL REAL
+137,PC,Almacén Oficina,Desechado,,HOSPITAL REAL
+138,Pc,"Oficina, en uso",Listo,218,HOSPITAL REAL
+139,Pc,PRESTADO,Listo,235,HOSPITAL REAL
+140,Pc,PRESTADO,Listo,246,HOSPITAL REAL
+141,Pc,Almacén oficina,-,,ETS Ingenierías Informáticas y de Telecomunicación
+142,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL
+143,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL
+144,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL
+145,PC,PRESTADO,Listo,237,Fuera de la ugr
+146,Impresora,Almacén oficina,-,,HOSPITAL REAL
+147,Impresora,Almacén oficina,-,,HOSPITAL REAL
+148,Impresora,Almacén oficina,-,,Parque Tecnológico de la Salud
+149,Escaner,Oficina,-,,Parque Tecnológico de la Salud
+151,PC,Almacén Oficina,Desechado,,PTS
+151,PC,Almacén Oficina,Desechado,,PTS
+152,Pc,PRESTADO,Listo,238,PTS
+153,Escaner,Almacén Oficina,Desechado,,Triunfo
+154,Impresora,Almacén oficina,-,,Complejo Administrativo Triunfo
+155,Impresora,Almacén Oficina,Listo,266,PTS
+156,Impresora,Almacén oficina,-,,Parque Tecnológico de la Salud
+157,Impresora,Almacén oficina,-,,
+158,Impresora,Almacén Oficina,Desechado,,PTS
+159,Pc,Almacén Oficina,Desechado,,Triunfo
+160,Pc,Almacén Oficina,Desechado,,Triunfo
+161,Portátil,DONADO,Listo,232,
+162,Impresora,DONADO,Listo,65,
+163,Portátil,Oficina,Listo,309,CICODE
+164,Pc,Almacén Oficina,Desechado,,ETS Ingenierías Informáticas y de Telecomunicación
+165,Impresora,Almacén oficina,-,,Facultad de comunicación y documentación
+166,Impresora,Almacén Oficina,Desechado,,Facultad de comunicación y documentación
+167,Impresora,Almacén Oficina,Desechado,,palacio la madraza
+168,Impresora,Almacén Oficina,Desechado,,Facultad de ciencias
+169,Impresora,Almacén Oficina,Desechado,,Facultad de ciencias
+170,Impresora,Almacén Oficina,Desechado,,Facultad de comunicación y documentación
+171,Pc,Almacén oficina,-,,Facultad de ciencias
+172,Pc,"Oficina, en uso",Listo,234,Edificio BIC
+173,Pc,PRESTADO,Listo,242,Edificio BIC
+174,Pc,PRESTADO,Listo,241,Edificio BIC
+175,PC,PRESTADO,Listo,243,Edificio BIC
+176,Impresora,Almacén oficina,-,,Parque Tecnológico de la Salud - Edificio BIC
+177,Proyector,Oficina,listo,299,¿de donde fue?
+178,Pc,Oficina,Desechado,,Fuera UGR - Álvaro Hurtado
+179,Pc,Almacén Oficina,Desechado,,Fuera UGR - Álvaro Hurtado
+180,Pc,Almacén Oficina,Desechado,,Fuera UGR - Álvaro Hurtado
+181,Impresora,Almacén oficina,-,,Fuera UGR - Álvaro Hurtado
+182,PC,PRESTADO,Listo,239,Complejo Admin. Triunfo -Servicio de alumnos
+183,Pc,Almacén Oficina,Desechado,,Complejo Admin. Triunfo -Servicio de alumnos
+184,Pc,Almacén Oficina,Desechado,,Complejo Admin. Triunfo -Servicio de alumnos
+185,Pc,Almacén Oficina,Desechado,,Complejo Admin. Triunfo -Servicio de alumnos
+186,PC,PRESTADO,Listo,244,Complejo Admin. Triunfo -Servicio de alumnos
+187,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL -GAS
+188,Pc,DONADO,Listo,273,HOSPITAL REAL -GAS
+189,Pc,Almacén oficina,-,,Hospital Real - GAS
+190,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL -GAS
+191,Pc,Almacén Oficina,Desechado,,HOSPITAL REAL -GAS
+192,Pc,PRESTADO,Listo,240,HOSPITAL REAL -GAS
+193,Pc,Almacén Oficina,Desechado,,Farmacia
+194,Pc,Almacén Oficina,Desechado,,Farmacia
+195,Pc,PRESTADO,Listo,252,Farmacia
+196,Pc,PRESTADO,Listo,253,Farmacia
+197,Impresora,Almacén oficina,Espera,,Farmacia
+198,Impresora,Almacén oficina,Espera,,Farmacia
+199,Impresora,Almacén oficina,Espera,,Farmacia
+200,Pc,Almacén Oficina,Desechado,,
+201,Pc,PRESTADO,Listo,249,Pablo
+202,Impresora,"Oficina, en uso",Listo,251,
+203,Impresora,DONADO,Listo,250,
+204,Impresora,Almacén Oficina,Desechado,,
+205,Proyector,DONADO,Listo,260,Facultad de Ciencias de la Salud
+206,Proyector,Almacén Oficina,Listo,258,Facultad de Ciencias de la Salud
+207,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+208,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+209,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+210,Pc,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+211,Pc,DONADO,Listo,263,Facultad de Ciencias de la Salud
+212,Pc,Almacén oficina,-,,Facultad de Ciencias de la Salud
+213,Pc,Oficina,Listo,271,Facultad de Ciencias de la Salud
+214,Pc,Almacén Oficina,Listo,272,Facultad de Ciencias de la Salud
+215,Pc,Almacén Oficina,Desechado,261,Facultad de Ciencias de la Salud
+216,Pc,PRESTADO,Listo,257,Facultad de Ciencias de la Salud
+217,Pc,DONADO,Listo,264,Facultad de Ciencias de la Salud
+218,Pc,DONADO,Listo,270,Facultad de Ciencias de la Salud
+219,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+220,Proyector,Almacén Oficina,Listo,259,Facultad de Ciencias de la Salud
+221,Pc,Almacén Oficina,Listo,262,Facultad de Ciencias de la Salud
+222,Pc,Almacén Oficina,Listo,274,Facultad de Ciencias de la Salud
+223,Pc,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+224,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+225,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+226,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+227,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+228,Impresora,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+229,Proyector,Almacén Oficina,Listo,,Facultad de Ciencias de la Salud
+230,Proyector,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+231,Escaner,Almacén oficina,-,,Facultad de Ciencias de la Salud
+232,Escaner,Almacén oficina,-,,Facultad de Ciencias de la Salud
+233,Impresora,Almacén oficina,-,,Facultad de Ciencias de la Salud
+234,Impresora,Almacén oficina,-,,Facultad de Ciencias de la Salud
+235,Pc,PRESTADO,Listo,255,Facultad de Ciencias de la Salud
+236,Pc,Oficina,Desechado,,Facultad de Ciencias de la Salud
+237,Pc,Almacén Oficina,Listo,275,Facultad de Ciencias de la Salud
+238,Pc,DONADO,Listo ,269,Facultad de Ciencias de la Salud
+239,Pc,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+240,Impresora,Almacén oficina,-,,Facultad de Ciencias de la Salud
+241,Impresora,Almacén oficina,-,,Facultad de Ciencias de la Salud
+242,Impresora,Almacén oficina,-,,Facultad de Ciencias de la Salud
+243,Pc,PRESTADO,Listo,254,Facultad de Ciencias de la Salud
+244,Pc,DONADO,Listo,276,Facultad de Ciencias de la Salud
+245,Pc,PRESTADO,Listo,256,Facultad de Ciencias de la Salud
+246,Pc,Almacén Oficina,Desechado,,Facultad de Ciencias de la Salud
+247,Pc,DONADO,Listo,265,Facultad de Ciencias de la Salud
+248,Impresora,Almacén oficina,-,,Facultad de Ciencias de la Salud
+249,Pc,Almacén Oficina,Desechado,,
+250,Portátil,DONADO,Listo,267,
+251,Pc,DONADO,Listo ,268,
+252,Pc,Almacen oficina,-,,Instituto de Matemáticas UGR - IEMATH
+253,Impresora,Almacén oficina,-,,Odontología
+254,Proyector,Almacén Oficina,Listo,279,Odontología
+255,Impresora,Almacén oficina,-,,Odontología
+256,Proyector,Almacén oficina,-,,Odontología
+257,Proyector,DONADO,Listo,278,Odontología
+258,Proyector,Almacén Oficina,Desechado,,Odontología
+259,Impresora,Almacén oficina,-,,Odontología
+260,Proyector,Almacén Oficina,Desechado,,Odontología
+261,Proyector,DONADO,Listo ,277,Odontología
+262,Proyector,Almacén Oficina,Listo,280,Odontología
+263,Pc,Almacén oficina,-,,Odontología
+264,Pc,Almacén oficina,-,,Odontología
+265,Pc,Almacén oficina,-,,Odontología
+266,Pc,Oficina,Reciclando,,Odontología
+267,Pc,Almacén oficina,Desechado,,Odontología
+268,Pc,Oficina,-,,Odontología
+269,Pc,Almacén Oficina,Listo,283,¿?
+270,Pc,Almacén oficina,-,,Odontología
+271,Pc,Almacén oficina,-,,Odontología
+272,Pc,Almacén oficina,-,,Odontología
+273,Impresora,Almacén Oficina,Desechado,,Odontología
+274,Impresora,Almacén Oficina,Desechado,,Odontología
+275,Pc,Almacén oficina,-,,Renato
+276,Pc,Almacén Oficina,Listo,281,Devueltos por Ecosfron de la 3ª Campaña
+277,Pc,Almacén Oficina,Listo,282,Devueltos por Ecosfron de la 3ª Campaña
+278,Pc,Almacén oficina,-,,Facultad Ciencias de la Educación
+279,Pc,Almacén oficina,-,,Facultad Ciencias de la Educación
+280,Pc,Almacén oficina,-,,Facultad Ciencias de la Educación
+281,Pc,Almacén oficina,-,,Facultad Ciencias de la Educación
+282,Pc,Almacén oficina,-,,Facultad Ciencias de la Educación
+283,Pc,Almacén oficina,-,,Facultad Ciencias de la Educación
+284,Impresora,Almacén oficina,-,,Facultad Ciencias de la Educación
+285,Impresora,Almacén oficina,-,,Facultad Ciencias de la Educación
+286,Impresora,Almacén oficina,-,,Facultad Ciencias de la Educación
+287,Impresora,Almacén oficina,-,,Facultad Ciencias de la Educación
+288,Impresora,Almacén oficina,-,,Facultad Ciencias de la Educación
+289,Impresora/Escaner,Almacén oficina,-,,Facultad Ciencias de la Educación
+290,Escaner,Almacén oficina,-,,Facultad Ciencias de la Educación
+291,Proyector,Almacén oficina,-,,Facultad Ciencias de la Educación
+292,Proyector,Almacén oficina,-,,Facultad Ciencias de la Educación
+293,Proyector,Almacén oficina,-,,Facultad Ciencias de la Educación
+294,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+295,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+296,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+297,Escáner,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+298,Pc,Almacén oficina,Desechado,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+299,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+300,Pc,Oficina,-,,Externa UGR - Pablo Hinojosa
+301,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+302,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+303,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+304,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+305,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+306,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+307,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+308,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+309,Pc,Almacén oficina,-,,Hospital Real - Nodo CSIRC - Sección Biblioteca
+310,Pc,Almacén oficina,Listo,293,Facultas de Filosofía y Letras
+311,Pc,Almacén oficina,Desechado,,Facultas de Filosofía y Letras
+312,Pc,Almacén oficina,Desechado,,Facultas de Filosofía y Letras
+313,Impreosra,Almacén oficina,-,,Facultas de Filosofía y Letras
+314,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+315,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+316,Impresora,Almacén oficina,-,,Facultas de Filosofía y Letras
+317,Escáner,Almacén oficina,-,,Facultas de Filosofía y Letras
+318,Impresora,Almacén oficina,-,,Dpto Estadística - Despacho Nuria Rico Castro
+319,Impresora,Almacén oficina,-,,Parque Tecnológico de la Salud - Unidad de Microscopía
+320,Impresora,Almacén oficina,-,,Parque Tecnológico de la Salud - Unidad de Microscopía
+321,Impresora,Almacén oficina,-,,Parque Tecnológico de la Salud - Unidad de Microscopía
+322,Pc,Almacén oficina,-,,Parque Tecnológico de la Salud - Unidad de Microscopía
+323,Impresora,Almacén oficina,-,,Externa UGR - Javier Funes Nieto
+324,Impresora,Almacén oficina,-,,Externa UGR - Javier Funes Nieto
+325,Portatil,Almacén oficina,-,,Edificio Mecenas - Departamento de Física de Partículas y del Cosmos
+326,Pc,Almacén oficina,Listo,285,Edificio Mecenas - Departamento de Física de Partículas y del Cosmos
+327,Pc,Almacén oficina,-,,Edificio Mecenas - Departamento de Física de Partículas y del Cosmos
+328,Pc,Almacén oficina,-,,Edificio Mecenas - Departamento de Física de Partículas y del Cosmos
+329,Pc,Almacén oficina,-,,Edificio Mecenas - Departamento de Física de Partículas y del Cosmos
+330,Portátil,Almacén oficina,-,,Externa UGR - Javier Funes Nieto
+331,Impresora,Almacén oficina,-,,Hospital Real - Biblioteca
+332,Pc,,-,,Hospital Real - Biblioteca
+333,Pc,Almacén oficina,Listo,284,Hospital Real - Biblioteca
+334,Pc,,-,,Hospital Real - Biblioteca
+335,Pc,,-,,Hospital Real - Biblioteca
+336,Pc,,-,,Hospital Real - Biblioteca
+337,Pc,,-,,Hospital Real - Biblioteca
+338,Pc,,-,,Hospital Real - Biblioteca
+339,Pc,,-,,Hospital Real - Biblioteca
+340,Pc,Almacén oficina,-,,Facultad de Odontología
+341,Pc,Almacén oficina,-,,Facultad de Odontología
+342,Pc,Almacén oficina,-,,Facultad de Odontología
+343,Pc,Almacén oficina,-,,Facultad de Odontología
+344,Pc,Almacén oficina,-,,Facultad de Odontología
+345,Pc,Almacén oficina,-,,Facultad de Odontología
+346,Pc,Almacén oficina,Listo,286,Facultad de Odontología
+347,Pc,Almacén oficina,-,,Facultad de Odontología
+348,Pc,Almacén oficina,-,,Facultad de Odontología
+349,Pc,Almacén oficina,-,,Facultad de Odontología
+350,Pc,Almacén oficina,-,,Facultad de Odontología
+351,Pc,Almacén oficina,-,,Instituto de Geofísica
+352,Pc,Almacén oficina,-,,Instituto de Geofísica
+353,Pc,Almacén oficina,Desechado,,Instituto de Geofísica
+354,Pc,Almacén oficina,-,,Instituto de Geofísica
+355,Pc,Almacén oficina,Listo,292,Instituto de Geofísica
+356,Portátil,Oficina,Listo,287,Madrid
+357,Portátil,Oficina,Listo,289,Madrid
+358,Portátil,Oficina,Listo,291,Madrid
+359,Portátil,Oficina,Listo,288,Madrid
+360,Proyector,Almacén oficina,Listo,302,Facultad de Ciencias Políticas
+361,Proyector,Almacén oficina,Listo,301,Facultad de Ciencias Políticas
+362,Proyector,Almacén oficina,Listo,303,Facultad de Ciencias Políticas
+363,Proyector,Almacén oficina,Listo,306,Facultad de Ciencias Políticas
+364,Proyector,Almacén oficina,Desachado,,Facultad de Ciencias Políticas
+365,Proyector,Almacén oficina,Listo,300,Facultad de Ciencias Políticas
+366,Proyector,Almacén oficina,Desachado,,Facultad de Ciencias Políticas
+367,Proyector,Almacén oficina,Desechado,,Facultad de Ciencias Políticas
+368,Proyector,Almacén oficina,Listo,304,Facultad de Ciencias Políticas
+369,Proyector,Almacén oficina,Listo,305,Facultad de Ciencias Políticas
+370,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+371,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+372,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+373,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+374,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+375,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+376,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+377,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+378,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+379,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+380,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+381,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+382,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+383,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+384,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+385,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+386,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+387,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+388,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+389,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+390,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+391,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+392,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+393,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+394,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+395,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+396,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+397,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+398,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+399,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+400,Pc,Almacén oficina,Listo,297,Facultad de Ciencias Políticas
+401,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+402,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+403,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+404,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+405,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+406,Pc,Almacén oficina,Listo,294,Facultad de Ciencias Políticas
+407,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+408,Pc,Almacén oficina,Listo,295,Facultad de Ciencias Políticas
+409,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+410,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+411,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+412,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+413,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+414,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+415,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+416,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+417,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+418,Proyector,Almacén oficina,Listo,308,Facultad de Ciencias Políticas
+419,Proyector,Almacén oficina,Listo,307,Facultad de Ciencias Políticas
+420,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+421,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+422,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+423,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+424,Pc,Almacén oficina,Listo,296,Facultad de Ciencias Políticas
+425,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+426,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+427,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+428,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+429,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+430,Pc,Oficina,Listo,290,Facultad de Ciencias Políticas
+431,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+432,Pc,Almacén oficina,-,,Facultad de Ciencias Políticas
+433,Pc,Almacén oficina,-,,Edifico Santa Lucía
+434,Pc,Almacén oficina,-,,Edifico Santa Lucía
+435,Pc,Almacén oficina,-,,Edifico Santa Lucía
+436,Pc,Almacén oficina,-,,Edifico Santa Lucía
+437,Pc,Almacén oficina,-,,Archivo
+438,Pc,Almacén oficina,-,,Archivo
+439,Portatil,Almacén oficina,-,,Facultad Medicina Bioestadistica
+440,Impresora,Almacén oficina,-,,Facultad Medicina Bioestadistica
+441,Impresora,Almacén oficina,-,,Facultad Medicina Bioestadistica
+442,Impresora,Almacén oficina,-,,Facultad Medicina Bioestadistica
+443,Impresora,Almacén oficina,-,,Facultad Medicina Bioestadistica
+444,Sobremesa,Almacén oficina,-,,Facultad Medicina Bioestadistica
+445,Sobremesa,Almacén oficina,Listo,,Moxilos Domo Electra
+446,Sobremesa,Almacén oficina,-,,Moxilos Domo Electra
+447,Sobremesa,Almacén oficina,-,,Moxilos Domo Electra
+448,Portatil,Almacén oficina,-,,Moxilos Domo Electra
+449,Sobremesa,Almacén oficina,-,,Vicerectorado Ordenación Académica
+450,Sobremesa,Almacén oficina,-,,Vicerectorado Ordenación Académica
+451,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+452,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+453,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+454,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+455,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+456,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+457,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+458,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+459,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+460,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+461,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+462,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+463,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+464,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+465,Sobremesa,Almacén oficina,-,,Escuela de Caminos
+466,Sobremesa,Almacén oficina,,,Escuela de Caminos
+467,Sobremesa,Almacén oficina,,,Escuela de Caminos
+468,Sobremesa,Almacén oficina,,,Escuela de Caminos
+469,Sobremesa,Almacén oficina,,,Escuela de Caminos
+470,Sobremesa,Almacén oficina,,,Escuela de Caminos
+471,Sobremesa,Almacén oficina,,,Escuela de Caminos
+472,Sobremesa,Almacén oficina,,,Escuela de Caminos
+473,Sobremesa,Almacén oficina,,,Escuela de Caminos
+474,Sobremesa,Almacén oficina,,,Escuela de Caminos
+475,Sobremesa,Almacén oficina,,,Escuela de Caminos
+476,Sobremesa,Almacén oficina,,,Escuela de Caminos
+477,Sobremesa,Almacén oficina,,,Escuela de Caminos
+Tac-1,Pc,Almacén,,,Cicode
+478,Impresora,Almacén,,,Cicode
+479,Impresora,Almacén,,,Cicode
+480,Impresora,Almacén,,,Cicode
+481,Impresora,Almacén,,,Traductores
+482,Pc,Almacén,,,Traductores
+483,Pc,Almacén,,,Traductores
+484,Pc,Almacén,,,Traductores
+485,Pc,Almacén,,,Traductores
+486,Pc,Almacén,,,Traductores
+487,Pc,Almacén,,,Filossofía y letras
+488,Pc,Almacén,,,Filossofía y letras
+489,Scaner,Almacén,,,Traductores
+490,Portatil,Almacén,,,Traductores
+491,Portatil,Almacén,,,Filossofía y letras
+492,Impresora,Almacén,,,Traductores
+493,Impresora,Almacén,,,Traductores
+494,Scaner,Almacén,,,Secretaria General
+495,Pc,Almacén,,,Secretaria General
+496,Pc,Almacén,,,Secretaria General
+497,Pc,Almacén,,,Deportes
+498,Pc,Almacén,,,Deportes
+499,Pc,Almacén,,,Deportes
+500,Pc,Almacén,,,Deportes
+501,Pc,Almacén,,,Deportes
+502,Pc,Almacén,,,Deportes
+503,Pc,Almacén,,,Deportes
+504,Pc,Almacén,,,Deportes
+505,Pc,Almacén,,,Deportes
+506,Pc,Almacén,,,Deportes
+507,Pc,Almacén,,,Deportes
+508,Impresora,Almacén,,,Deportes
+509,Impresora,Almacén,,,Deportes
+510,Impresora,Almacén,,,Deportes
+511,Impresora,Almacén,,,Deportes
+512,Impresora,Almacén,,,Deportes
+513,Impresora,Almacén,,,Deportes
+514,Fax,Almacén,,,Politicas
+515,Pc,Almacén,,,Politicas
+516,Pc,Almacén,,,Politicas
+517,Pc,Almacén,,,Politicas
+518,Pc,Almacén,,,Politicas
+519,Pc,Almacén,,,Politicas
+520,Pc,Almacén,,,Politicas
+521,Pc,Almacén,,,Politicas
+522,Pc,Almacén,,,Politicas
+523,Pc,Almacén,,,Politicas
+524,Pc,Almacén,,,Politicas
+525,Pc,Almacén,,,Politicas
+526,Pc,Almacén,,,Politicas
+527,Pc,Almacén,,,Politicas
+528,Pc,Almacén,,,Politicas
+529,Pc,Almacén,,,Politicas
+530,Pc,Almacén,,,Politicas
+531,Pc,Almacén,,,Politicas
+532,Pc,Almacén,,,Politicas
+533,Pc,Almacén,,,Politicas
+534,Pc,Almacén,,,Politicas
+535,Pc,Almacén,,,Politicas
+536,Impresora,Almacén,,,Politicas
+537,Impresora,Almacén,,,Politicas
+538,Escaner,Almacén,,,Facultad de ciencias
+539,Pc,Almacén,,,Facultad de ciencias
+540,Pc,Almacén,,,Facultad de ciencias
+541,Pc,Almacén,,,Facultad de ciencias
+542,Pc,Almacén,,,Facultad de ciencias
+543,Pc,Almacén,,,Facultad de ciencias
+544,Pc,Almacén,,,Facultad de ciencias
+545,Pc,Almacén,,,Facultad de ciencias
+546,Pc,Almacén,,,Facultad de ciencias
+547,Pc,Almacén,,,Facultad de ciencias
+548,Pc,Almacén,,,Facultad de ciencias
+549,Pc,Almacén,,,Facultad de ciencias
+550,Pc,Almacén,,,Facultad de ciencias
+551,Pc,Almacén,,,Facultad de ciencias
+552,Pc,Almacén,,,Facultad de ciencias
+553,Pc,Almacén,,,Facultad de ciencias
+554,Pc,Almacén,,,Facultad de ciencias
+555,Pc,Almacén,,,Facultad de ciencias
+556,Pc,Almacén,,,Facultad de ciencias
+557,Pc,Almacén,,,Facultad de ciencias
+558,Pc,Almacén,,,Facultad de ciencias
+559,Impresora,Almacén,,,Deportes
+560,Impresora,Almacén,,,Deportes
+561,Pc,Almacén,,,Deportes
+562,Escaner,Almacén,,,Deportes
+563,Escaner,Almacén,,,Deportes
+564,Escaner,Almacén,,,Deportes
+565,Proyector,Almacén,,,Deportes
+566,Pc,Almacen,,,Oficina Proyectos Internacionales
+567,Pc,Almacen,,,Oficina Proyectos Internacionales
+568,Impresora,Almacen,,,Oficina Proyectos Internacionales
+569,Pc,Almacen,,,Oficina Proyectos Internacionales
+570,Pc,Oficina Manu,,312,Oficina Proyectos Internacionales
+571,Portatil,Almacen,,,Oficina Proyectos Internacionales
+572,Portatil,Almacen,,,Oficina Proyectos Internacionales
+573,Fax,Almacen,,,Oficina Proyectos Internacionales
+574,Pc,Almacen,,,Oficina Proyectos Internacionales
+575,Pc,Oficina,Desechado,,Hospital Real Rector
+576,Pc,Almacen,,,Facultad de ciencias
+577,Pc,Almacen,,,Facultad de ciencias
+578,Pc,Almacen,,,Facultad de ciencias
+579,Pc,Almacen,,,Facultad de ciencias
+580,Pc,Almacen,,,Facultad de ciencias
+581,Impresora,Almacen,,,Facultad de ciencias
+582,Impresora,Almacen,,,Facultad de ciencias
+583,Impresora,Almacen,,,Facultad de ciencias
+584,Impresora,Almacen,,,Facultad de ciencias
+585,Impresora,Almacen,,,Facultad de ciencias
+586,Impresora,Almacen,,,Facultad de ciencias
+587,Impresora,Almacen,,,Facultad de ciencias
+588,Impresora,Almacen,,,Facultad de ciencias
+589,Impresora,Almacen,,,Facultad de ciencias
+590,Impresora,Almacen,,,Facultad de ciencias
+591,Impresora,Almacen,,,Facultad de ciencias
+592,Impresora,Almacen,,,Facultad de ciencias
+593,Impresora,Almacen,,,Facultad de ciencias
+594,Impresora,Almacen,,,Facultad de ciencias
+595,Escaner,Almacen,,,Facultad de ciencias
+596,Impresora,Almacen,,,Facultad de ciencias
